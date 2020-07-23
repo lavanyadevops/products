@@ -1,0 +1,13 @@
+server:
+    # FIXME: add application context-path settings                 #
+  # servlet:                                                     #
+  #    context-path:                                             #
+    port: 8081
+
+
+    # FIXME: use the following credentials for your sql connection #
+  # driver-class-name: com.mysql.cj.jdbc.Driver                  #
+  # url: jdbc:mysql://localhost:3306/KLEINANZEIGEN               #
+  # username: root                                               #
+  # password: start01                                            #
+    
